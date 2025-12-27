@@ -23,10 +23,15 @@ It simulates a SOC workflow including detection, alert generation, and visualiza
 
 ## Project Structure
 AI_IDS_Project/
+
 ├── notebooks/
+
 ├── data/
+
 ├── models/
+
 ├── screenshots/
+
 ├── README.md
 
 

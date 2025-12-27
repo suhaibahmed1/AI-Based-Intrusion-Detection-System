@@ -33,7 +33,7 @@ AI_IDS_Project/
 ## 📊 Project Visualizations
 
 ### Confusion Matrix
-![Confusion Matrix](screenshots/confusion_matrix.png)
+![Confusion Matrix](screenshots/confusion_matix.png)
 
 ### Total Traffic Distribution
 ![Traffic Chart](screenshots/traffic_chart.png)
